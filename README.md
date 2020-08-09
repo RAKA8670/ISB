@@ -1,5 +1,4 @@
-# ISB 
-In this repository we will be sharing all the project code files which we have covered in the Warm-Up Session of INDIA'S SUPER BRAIN 2020 EDITION.
+# All Contribution of RAKA(RAju KArmakar) to ISB is in this Repository...
 ![alt text](https://github.com/alienbrains/ISB/blob/master/ISB_warmup.jpeg?raw=true)
 
 
