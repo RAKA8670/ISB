@@ -1,12 +1,10 @@
 from selenium import webdriver
+
+uid = input("Enter Email or Phone No. - ")
+password = input("Enter Password - ")
+
 browser = webdriver.Chrome("B:\\Alien Brain\\Python Warm-Up\\chromedriver.exe")
 browser.get("https://www.facebook.com/")
-
-#uid = input("Enter Email or Phone No. - ")
-#password = input("Enter Password - ")
-
-uid = "8016999319"
-password = "some79800"
 
 eui = browser.find_element_by_id("email")
 eui.send_keys(uid)
